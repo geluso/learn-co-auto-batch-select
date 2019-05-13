@@ -7,15 +7,15 @@ to <learn.co/curriculum/tracks/25055> URL
 to have the page automatically select your
 proper cohort!
 
-The URL is updated when you change <select>
+The URL is updated when you change `<select>`
 Save the URL as a bookmark to auto-load!
 
 
-Requirements:
-- install tampermonkey chrome extension
-- configure tampermonkey script
+## Requirements:
+* install tampermonkey chrome extension
+* configure tampermonkey script
 
 
 TODO:
-- integrate with learn.co proper!
+* integrate with <learn.co> proper!
 
